@@ -1,7 +1,12 @@
 import React from 'react'
 
-export default function RandomQuote() {
+const RandomQuote = () => {
   return (
-    <div>RandomQuote</div>
+    
+    <div>
+      
+    </div>
   )
 }
+
+export default RandomQuote
