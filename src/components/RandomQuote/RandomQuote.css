@@ -37,5 +37,12 @@
 }
 
 .icons{
-  
+  display: flex;
+  gap: 40px;
+}
+
+.icons button{
+  cursor: pointer;
+  height: 36px;
+  width: 36px;
 }
